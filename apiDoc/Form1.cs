@@ -25,6 +25,11 @@ namespace apiDoc
             InitializeComponent();
         }
 
+        /// <summary>
+        /// 开始转换xml
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnChange_Click(object sender, EventArgs e)
         {
             try
