@@ -147,7 +147,8 @@ namespace apiDoc
                 dialog.SelectedPath = defaultfilePath;
             }else
             {
-                dialog.SelectedPath = @"G:\校园本地网\trunk\Execute\Apps\xml";
+                //dialog.SelectedPath = @"G:\校园本地网\trunk\";
+                dialog.SelectedPath = @"G:";
             }
 
            
