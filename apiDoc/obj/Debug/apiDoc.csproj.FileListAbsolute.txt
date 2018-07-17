@@ -1,0 +1,23 @@
+c:\users\ck\documents\visual studio 2015\Projects\apiDoc\apiDoc\bin\Debug\apiDoc.exe.config
+c:\users\ck\documents\visual studio 2015\Projects\apiDoc\apiDoc\bin\Debug\apiDoc.exe
+c:\users\ck\documents\visual studio 2015\Projects\apiDoc\apiDoc\bin\Debug\apiDoc.pdb
+c:\users\ck\documents\visual studio 2015\Projects\apiDoc\apiDoc\obj\Debug\apiDoc.csprojResolveAssemblyReference.cache
+c:\users\ck\documents\visual studio 2015\Projects\apiDoc\apiDoc\obj\Debug\apiDoc.Form1.resources
+c:\users\ck\documents\visual studio 2015\Projects\apiDoc\apiDoc\obj\Debug\apiDoc.Properties.Resources.resources
+c:\users\ck\documents\visual studio 2015\Projects\apiDoc\apiDoc\obj\Debug\apiDoc.csproj.GenerateResource.Cache
+c:\users\ck\documents\visual studio 2015\Projects\apiDoc\apiDoc\obj\Debug\apiDoc.exe
+c:\users\ck\documents\visual studio 2015\Projects\apiDoc\apiDoc\obj\Debug\apiDoc.pdb
+E:\C#\apiDoc\apiDoc\bin\Debug\apiDoc.exe.config
+E:\C#\apiDoc\apiDoc\obj\Debug\apiDoc.exe
+E:\C#\apiDoc\apiDoc\obj\Debug\apiDoc.pdb
+E:\C#\apiDoc\apiDoc\bin\Debug\apiDoc.exe
+E:\C#\apiDoc\apiDoc\bin\Debug\apiDoc.pdb
+E:\C#\apiDoc\apiDoc\obj\Debug\apiDoc.Form1.resources
+E:\C#\apiDoc\apiDoc\obj\Debug\apiDoc.Properties.Resources.resources
+E:\C#\apiDoc\apiDoc\obj\Debug\apiDoc.csproj.GenerateResource.Cache
+E:\C#\apiDoc\apiDoc\obj\Debug\apiDoc.csprojResolveAssemblyReference.cache
+E:\C#\apiDoc\apiDoc\obj\Debug\apiDoc.frmParams.resources
+E:\C#\apiDoc\apiDoc\obj\Debug\apiDoc.frmMsg.resources
+E:\C#\apiXmlFormat\apiDoc\bin\Debug\apiDoc.exe.config
+E:\C#\apiXmlFormat\apiDoc\obj\Debug\apiDoc.exe
+E:\C#\apiXmlFormat\apiDoc\obj\Debug\apiDoc.pdb
